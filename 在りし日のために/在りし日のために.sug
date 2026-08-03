@@ -1,0 +1,6213 @@
+{
+  "version": "0.3.0",
+  "id": "ff341bdd-fce4-4baa-92d2-9d8513bbc7b6",
+  "metadata": {
+    "title": "",
+    "artist": "",
+    "album": "",
+    "language": "ja",
+    "created_at": "2026-08-01T23:39:53.334240",
+    "updated_at": "2026-08-02T23:11:21.995249"
+  },
+  "audio_duration_ms": 226325,
+  "singers": [
+    {
+      "id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "name": "未命名",
+      "color": "#FF6B6B",
+      "complement_color": "#6BFFFF",
+      "color_mode": "solid",
+      "split_colors": [],
+      "is_default": true,
+      "is_placeholder": true,
+      "display_priority": 0,
+      "enabled": true,
+      "backend_number": 1,
+      "group": ""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "229b9988-2124-4a7a-acda-98f907045360",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "❀",
+          "check_count": 1,
+          "timestamps": [
+            100
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": true,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": true,
+          "force_singer_tag": false
+        },
+        {
+          "char": "❀",
+          "check_count": 1,
+          "timestamps": [
+            1010
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": true,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": true,
+          "force_singer_tag": false
+        },
+        {
+          "char": "❀",
+          "check_count": 1,
+          "timestamps": [
+            1960
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": true,
+          "force_singer_tag": false
+        },
+        {
+          "char": "あ",
+          "check_count": 1,
+          "timestamps": [
+            2910
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            3250
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "が",
+          "check_count": 1,
+          "timestamps": [
+            3570
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "と",
+          "check_count": 1,
+          "timestamps": [
+            3740
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "う",
+          "check_count": 1,
+          "timestamps": [
+            4120
+          ],
+          "sentence_end_ts": 4540,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "在",
+          "check_count": 1,
+          "timestamps": [
+            4980
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "あ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            5170
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "し",
+          "check_count": 1,
+          "timestamps": [
+            5520
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "日",
+          "check_count": 1,
+          "timestamps": [
+            5690
+          ],
+          "sentence_end_ts": 8280,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ひ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "fc48f0aa-0b83-46d4-86e0-e31a928b18fe",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": []
+    },
+    {
+      "id": "25136560-7bd3-4a8e-939c-c6bab216d819",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "❀",
+          "check_count": 1,
+          "timestamps": [
+            15690
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": true,
+          "force_singer_tag": false
+        },
+        {
+          "char": "夢",
+          "check_count": 2,
+          "timestamps": [
+            16690,
+            16800
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ゆ",
+                "offset_ms": 0
+              },
+              {
+                "text": "め",
+                "offset_ms": 110
+              }
+            ]
+          }
+        },
+        {
+          "char": "を",
+          "check_count": 1,
+          "timestamps": [
+            16970
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "見",
+          "check_count": 1,
+          "timestamps": [
+            17140
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "み",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "て",
+          "check_count": 1,
+          "timestamps": [
+            17310
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "水",
+          "check_count": 2,
+          "timestamps": [
+            17620,
+            17970
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "み",
+                "offset_ms": 0
+              },
+              {
+                "text": "な",
+                "offset_ms": 350
+              }
+            ]
+          }
+        },
+        {
+          "char": "底",
+          "check_count": 2,
+          "timestamps": [
+            18320,
+            18640
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "そ",
+                "offset_ms": 0
+              },
+              {
+                "text": "こ",
+                "offset_ms": 320
+              }
+            ]
+          }
+        },
+        {
+          "char": "で",
+          "check_count": 1,
+          "timestamps": [
+            18810
+          ],
+          "sentence_end_ts": 19230,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "cab0a1be-c87a-4b52-b3d8-5d6cda725e26",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "感",
+          "check_count": 2,
+          "timestamps": [
+            19390,
+            19570
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "か",
+                "offset_ms": 0
+              },
+              {
+                "text": "ん",
+                "offset_ms": 180
+              }
+            ]
+          }
+        },
+        {
+          "char": "じ",
+          "check_count": 1,
+          "timestamps": [
+            19740
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "た",
+          "check_count": 1,
+          "timestamps": [
+            19930
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            20110
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "ま",
+          "check_count": 1,
+          "timestamps": [
+            20450
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "ぶ",
+          "check_count": 1,
+          "timestamps": [
+            20770
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "た",
+          "check_count": 1,
+          "timestamps": [
+            21070
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "ご",
+          "check_count": 1,
+          "timestamps": [
+            21410
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "し",
+          "check_count": 1,
+          "timestamps": [
+            21590
+          ],
+          "sentence_end_ts": 21910,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "c10c6ad5-948e-4580-b239-953fd81f5872",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "眩",
+          "check_count": 3,
+          "timestamps": [
+            22150,
+            22340,
+            22520
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ま",
+                "offset_ms": 0
+              },
+              {
+                "text": "ば",
+                "offset_ms": 190
+              },
+              {
+                "text": "ゆ",
+                "offset_ms": 370
+              }
+            ]
+          }
+        },
+        {
+          "char": "い",
+          "check_count": 1,
+          "timestamps": [
+            22710
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "ば",
+          "check_count": 1,
+          "timestamps": [
+            22900
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "か",
+          "check_count": 1,
+          "timestamps": [
+            23070
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            23230
+          ],
+          "sentence_end_ts": 23960,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "風",
+          "check_count": 2,
+          "timestamps": [
+            24120,
+            24310
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "か",
+                "offset_ms": 0
+              },
+              {
+                "text": "ぜ",
+                "offset_ms": 190
+              }
+            ]
+          }
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            24530
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "音",
+          "check_count": 1,
+          "timestamps": [
+            24730
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ね",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "色",
+          "check_count": 2,
+          "timestamps": [
+            25130,
+            25270
+          ],
+          "sentence_end_ts": 26230,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "い",
+                "offset_ms": 0
+              },
+              {
+                "text": "ろ",
+                "offset_ms": 140
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "fae8356a-026d-48d1-bfad-f91d510d5ce1",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "月",
+          "check_count": 2,
+          "timestamps": [
+            27700,
+            27840
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "つ",
+                "offset_ms": 0
+              },
+              {
+                "text": "き",
+                "offset_ms": 140
+              }
+            ]
+          }
+        },
+        {
+          "char": "光",
+          "check_count": 2,
+          "timestamps": [
+            28000,
+            28170
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "び",
+                "offset_ms": 0
+              },
+              {
+                "text": "か",
+                "offset_ms": 170
+              }
+            ]
+          }
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            28320
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "欠",
+          "check_count": 1,
+          "timestamps": [
+            28710
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "か",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "片",
+          "check_count": 2,
+          "timestamps": [
+            29080,
+            29410
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "け",
+                "offset_ms": 0
+              },
+              {
+                "text": "ら",
+                "offset_ms": 330
+              }
+            ]
+          }
+        },
+        {
+          "char": "散",
+          "check_count": 1,
+          "timestamps": [
+            29750
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ち",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "る",
+          "check_count": 1,
+          "timestamps": [
+            29890
+          ],
+          "sentence_end_ts": 30280,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "5fc20071-ec09-4927-a513-934a72e13728",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "そ",
+          "check_count": 1,
+          "timestamps": [
+            30520
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            30610
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "音",
+          "check_count": 2,
+          "timestamps": [
+            30760,
+            30940
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "お",
+                "offset_ms": 0
+              },
+              {
+                "text": "と",
+                "offset_ms": 180
+              }
+            ]
+          }
+        },
+        {
+          "char": "が",
+          "check_count": 1,
+          "timestamps": [
+            31100
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "水",
+          "check_count": 2,
+          "timestamps": [
+            31500,
+            31850
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "す",
+                "offset_ms": 0
+              },
+              {
+                "text": "い",
+                "offset_ms": 350
+              }
+            ]
+          }
+        },
+        {
+          "char": "紋",
+          "check_count": 2,
+          "timestamps": [
+            32220,
+            32540
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "も",
+                "offset_ms": 0
+              },
+              {
+                "text": "ん",
+                "offset_ms": 320
+              }
+            ]
+          }
+        },
+        {
+          "char": "に",
+          "check_count": 1,
+          "timestamps": [
+            32680
+          ],
+          "sentence_end_ts": 33110,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "c24a0715-a8b9-43e7-a0f9-c529b2bba0d8",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "水",
+          "check_count": 2,
+          "timestamps": [
+            33250,
+            33410
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": true,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "み",
+                "offset_ms": 0
+              },
+              {
+                "text": "な",
+                "offset_ms": 160
+              }
+            ]
+          }
+        },
+        {
+          "char": "面",
+          "check_count": 1,
+          "timestamps": [
+            33590
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "も",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "を",
+          "check_count": 1,
+          "timestamps": [
+            33770
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "踊",
+          "check_count": 2,
+          "timestamps": [
+            33930,
+            34120
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "お",
+                "offset_ms": 0
+              },
+              {
+                "text": "ど",
+                "offset_ms": 190
+              }
+            ]
+          }
+        },
+        {
+          "char": "る",
+          "check_count": 1,
+          "timestamps": [
+            34290
+          ],
+          "sentence_end_ts": 35110,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "蝶",
+          "check_count": 2,
+          "timestamps": [
+            35480,
+            35830
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ちょ",
+                "offset_ms": 0
+              },
+              {
+                "text": "う",
+                "offset_ms": 350
+              }
+            ]
+          }
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            36200
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "群",
+          "check_count": 1,
+          "timestamps": [
+            36570
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "む",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "れ",
+          "check_count": 1,
+          "timestamps": [
+            36900
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "よ",
+          "check_count": 1,
+          "timestamps": [
+            37080
+          ],
+          "sentence_end_ts": 37580,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "8cf6a7bb-fbf2-48fe-b538-821e67ae55bb",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "夢",
+          "check_count": 2,
+          "timestamps": [
+            37750,
+            38080
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ゆ",
+                "offset_ms": 0
+              },
+              {
+                "text": "め",
+                "offset_ms": 330
+              }
+            ]
+          }
+        },
+        {
+          "char": "水",
+          "check_count": 2,
+          "timestamps": [
+            38260,
+            38420
+          ],
+          "sentence_end_ts": 40230,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "み",
+                "offset_ms": 0
+              },
+              {
+                "text": "ず",
+                "offset_ms": 160
+              }
+            ]
+          }
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "零",
+          "check_count": 2,
+          "timestamps": [
+            40530,
+            40890
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "こ",
+                "offset_ms": 0
+              },
+              {
+                "text": "ぼ",
+                "offset_ms": 360
+              }
+            ]
+          }
+        },
+        {
+          "char": "れ",
+          "check_count": 1,
+          "timestamps": [
+            41250
+          ],
+          "sentence_end_ts": 43020,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "0009bb3d-61ea-42a1-9661-e05ae4bc3651",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "在",
+          "check_count": 1,
+          "timestamps": [
+            43270
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "あ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            43640
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "し",
+          "check_count": 1,
+          "timestamps": [
+            43830
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "日",
+          "check_count": 1,
+          "timestamps": [
+            44010
+          ],
+          "sentence_end_ts": 45790,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ひ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "目",
+          "check_count": 1,
+          "timestamps": [
+            46060
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "め",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "覚",
+          "check_count": 1,
+          "timestamps": [
+            46410
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ざ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "め",
+          "check_count": 1,
+          "timestamps": [
+            46600
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "る",
+          "check_count": 1,
+          "timestamps": [
+            46780
+          ],
+          "sentence_end_ts": 48510,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "b13ad61a-9880-4cad-9f5e-3f3c1de1b84d",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": []
+    },
+    {
+      "id": "7566ddcc-6f84-4d8a-9324-4a6cc2f815dd",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "水",
+          "check_count": 2,
+          "timestamps": [
+            48940,
+            49200
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": true,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "み",
+                "offset_ms": 0
+              },
+              {
+                "text": "な",
+                "offset_ms": 260
+              }
+            ]
+          }
+        },
+        {
+          "char": "面",
+          "check_count": 1,
+          "timestamps": [
+            49530
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "も",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            49740
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "風",
+          "check_count": 2,
+          "timestamps": [
+            50720,
+            50900
+          ],
+          "sentence_end_ts": 51680,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "か",
+                "offset_ms": 0
+              },
+              {
+                "text": "ぜ",
+                "offset_ms": 180
+              }
+            ]
+          }
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "狂",
+          "check_count": 2,
+          "timestamps": [
+            51960,
+            52130
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "く",
+                "offset_ms": 0
+              },
+              {
+                "text": "る",
+                "offset_ms": 170
+              }
+            ]
+          }
+        },
+        {
+          "char": "い",
+          "check_count": 1,
+          "timestamps": [
+            52320
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "咲",
+          "check_count": 1,
+          "timestamps": [
+            52520
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ざ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "く",
+          "check_count": 1,
+          "timestamps": [
+            52850
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "櫻",
+          "check_count": 3,
+          "timestamps": [
+            53000,
+            53350,
+            53500
+          ],
+          "sentence_end_ts": 54180,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "さ",
+                "offset_ms": 0
+              },
+              {
+                "text": "く",
+                "offset_ms": 350
+              },
+              {
+                "text": "ら",
+                "offset_ms": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "1e5f12fc-7e29-4b25-b9fc-99d5a522c275",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "は",
+          "check_count": 1,
+          "timestamps": [
+            54600
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "る",
+          "check_count": 1,
+          "timestamps": [
+            54920
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "か",
+          "check_count": 1,
+          "timestamps": [
+            55270
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "果",
+          "check_count": 1,
+          "timestamps": [
+            55590
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "は",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "て",
+          "check_count": 1,
+          "timestamps": [
+            55770
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            56070
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "音",
+          "check_count": 2,
+          "timestamps": [
+            56250,
+            56390
+          ],
+          "sentence_end_ts": 57110,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "お",
+                "offset_ms": 0
+              },
+              {
+                "text": "と",
+                "offset_ms": 140
+              }
+            ]
+          }
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "鳴",
+          "check_count": 1,
+          "timestamps": [
+            57260
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "な",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            57560
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "響",
+          "check_count": 2,
+          "timestamps": [
+            57860,
+            58050
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ひ",
+                "offset_ms": 0
+              },
+              {
+                "text": "び",
+                "offset_ms": 190
+              }
+            ]
+          }
+        },
+        {
+          "char": "く",
+          "check_count": 1,
+          "timestamps": [
+            58210
+          ],
+          "sentence_end_ts": 59370,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "4c80fef3-edb6-495e-b8e9-3112ab3ba5a9",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "わ",
+          "check_count": 1,
+          "timestamps": [
+            59900
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "た",
+          "check_count": 1,
+          "timestamps": [
+            60250
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "し",
+          "check_count": 1,
+          "timestamps": [
+            60600
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            60790
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "夢",
+          "check_count": 2,
+          "timestamps": [
+            61830,
+            61990
+          ],
+          "sentence_end_ts": 62700,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ゆ",
+                "offset_ms": 0
+              },
+              {
+                "text": "め",
+                "offset_ms": 160
+              }
+            ]
+          }
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "割",
+          "check_count": 1,
+          "timestamps": [
+            62890
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "わ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "れ",
+          "check_count": 1,
+          "timestamps": [
+            63260
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "る",
+          "check_count": 1,
+          "timestamps": [
+            63590
+          ],
+          "sentence_end_ts": 64610,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "砕",
+          "check_count": 2,
+          "timestamps": [
+            64690,
+            64860
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "く",
+                "offset_ms": 0
+              },
+              {
+                "text": "だ",
+                "offset_ms": 170
+              }
+            ]
+          }
+        },
+        {
+          "char": "け",
+          "check_count": 1,
+          "timestamps": [
+            65310
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "る",
+          "check_count": 1,
+          "timestamps": [
+            65490
+          ],
+          "sentence_end_ts": 66270,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "a78dc080-1996-4f4e-9402-a108a5aaaa41",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "目",
+          "check_count": 1,
+          "timestamps": [
+            66710
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "め",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "覚",
+          "check_count": 1,
+          "timestamps": [
+            67030
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ざ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "め",
+          "check_count": 1,
+          "timestamps": [
+            67390
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            67590
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "日",
+          "check_count": 1,
+          "timestamps": [
+            67910
+          ],
+          "sentence_end_ts": 68620,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ひ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "こ",
+          "check_count": 1,
+          "timestamps": [
+            68810
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            68980
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "時",
+          "check_count": 2,
+          "timestamps": [
+            69330,
+            69480
+          ],
+          "sentence_end_ts": 72130,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "と",
+                "offset_ms": 0
+              },
+              {
+                "text": "き",
+                "offset_ms": 150
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "2ce37c8f-5abf-4ff6-b11b-98a3e3d7b37f",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": []
+    },
+    {
+      "id": "a32cfa51-3085-44e5-a06a-93485cf5d303",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "❀",
+          "check_count": 1,
+          "timestamps": [
+            79350
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": true,
+          "force_singer_tag": false
+        },
+        {
+          "char": "千",
+          "check_count": 1,
+          "timestamps": [
+            80350
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "せん",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "年",
+          "check_count": 1,
+          "timestamps": [
+            80670
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ねん",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            81010
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "在",
+          "check_count": 1,
+          "timestamps": [
+            81390
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "あ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            81770
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "し",
+          "check_count": 1,
+          "timestamps": [
+            82140
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "日",
+          "check_count": 1,
+          "timestamps": [
+            82490
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ひ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "よ",
+          "check_count": 1,
+          "timestamps": [
+            82660
+          ],
+          "sentence_end_ts": 83000,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "f454cd3f-f5ba-4196-9b93-4087b5b8c3f0",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "わ",
+          "check_count": 1,
+          "timestamps": [
+            83230
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "た",
+          "check_count": 1,
+          "timestamps": [
+            83390
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "し",
+          "check_count": 1,
+          "timestamps": [
+            83550
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "に",
+          "check_count": 1,
+          "timestamps": [
+            83740
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "も",
+          "check_count": 1,
+          "timestamps": [
+            83900
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "別",
+          "check_count": 1,
+          "timestamps": [
+            84220
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "わ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "け",
+          "check_count": 1,
+          "timestamps": [
+            84560
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "て",
+          "check_count": 1,
+          "timestamps": [
+            84940
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "く",
+          "check_count": 1,
+          "timestamps": [
+            85260
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "れ",
+          "check_count": 1,
+          "timestamps": [
+            85430
+          ],
+          "sentence_end_ts": 85790,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "d0cb0ce5-3add-417f-982a-d4c54c459eee",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "呪",
+          "check_count": 2,
+          "timestamps": [
+            86010,
+            86160
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "の",
+                "offset_ms": 0
+              },
+              {
+                "text": "ろ",
+                "offset_ms": 150
+              }
+            ]
+          }
+        },
+        {
+          "char": "い",
+          "check_count": 1,
+          "timestamps": [
+            86310
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            86480
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "様",
+          "check_count": 2,
+          "timestamps": [
+            86660,
+            86810
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "よ",
+                "offset_ms": 0
+              },
+              {
+                "text": "う",
+                "offset_ms": 150
+              }
+            ]
+          }
+        },
+        {
+          "char": "な",
+          "check_count": 1,
+          "timestamps": [
+            86990
+          ],
+          "sentence_end_ts": 87760,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "あ",
+          "check_count": 1,
+          "timestamps": [
+            88110
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "い",
+          "check_count": 1,
+          "timestamps": [
+            88270
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            88450
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "か",
+          "check_count": 1,
+          "timestamps": [
+            88620
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "た",
+          "check_count": 1,
+          "timestamps": [
+            88940
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "ち",
+          "check_count": 1,
+          "timestamps": [
+            89100
+          ],
+          "sentence_end_ts": 89780,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "8421a177-837e-4efb-8e13-40749e9594c7",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "だ",
+          "check_count": 1,
+          "timestamps": [
+            91500
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "か",
+          "check_count": 1,
+          "timestamps": [
+            91670
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "ら",
+          "check_count": 1,
+          "timestamps": [
+            91820
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "こ",
+          "check_count": 1,
+          "timestamps": [
+            92010
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "そ",
+          "check_count": 1,
+          "timestamps": [
+            92190
+          ],
+          "sentence_end_ts": 92430,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "そ",
+          "check_count": 1,
+          "timestamps": [
+            92560
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            92900
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "櫻",
+          "check_count": 3,
+          "timestamps": [
+            93280,
+            93610,
+            93770
+          ],
+          "sentence_end_ts": 94130,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "さ",
+                "offset_ms": 0
+              },
+              {
+                "text": "く",
+                "offset_ms": 330
+              },
+              {
+                "text": "ら",
+                "offset_ms": 490
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "c51043a3-0ee1-49db-97ca-d415d91fd1b7",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "水",
+          "check_count": 2,
+          "timestamps": [
+            94310,
+            94470
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "み",
+                "offset_ms": 0
+              },
+              {
+                "text": "な",
+                "offset_ms": 160
+              }
+            ]
+          }
+        },
+        {
+          "char": "底",
+          "check_count": 2,
+          "timestamps": [
+            94630,
+            94820
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "そ",
+                "offset_ms": 0
+              },
+              {
+                "text": "こ",
+                "offset_ms": 190
+              }
+            ]
+          }
+        },
+        {
+          "char": "で",
+          "check_count": 1,
+          "timestamps": [
+            95000
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "語",
+          "check_count": 2,
+          "timestamps": [
+            95340,
+            95670
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "か",
+                "offset_ms": 0
+              },
+              {
+                "text": "た",
+                "offset_ms": 330
+              }
+            ]
+          }
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            96010
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "だ",
+          "check_count": 1,
+          "timestamps": [
+            96340
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "す",
+          "check_count": 1,
+          "timestamps": [
+            96500
+          ],
+          "sentence_end_ts": 96850,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "245fc545-7e55-421a-b4df-2f5e06be4453",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "愛",
+          "check_count": 2,
+          "timestamps": [
+            97080,
+            97250
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "あ",
+                "offset_ms": 0
+              },
+              {
+                "text": "い",
+                "offset_ms": 170
+              }
+            ]
+          }
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            97430
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "形",
+          "check_count": 3,
+          "timestamps": [
+            97620,
+            97790,
+            97980
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "か",
+                "offset_ms": 0
+              },
+              {
+                "text": "た",
+                "offset_ms": 170
+              },
+              {
+                "text": "ち",
+                "offset_ms": 360
+              }
+            ]
+          }
+        },
+        {
+          "char": "を",
+          "check_count": 1,
+          "timestamps": [
+            98120
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "水",
+          "check_count": 2,
+          "timestamps": [
+            99210,
+            99610
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "み",
+                "offset_ms": 0
+              },
+              {
+                "text": "ず",
+                "offset_ms": 400
+              }
+            ]
+          }
+        },
+        {
+          "char": "に",
+          "check_count": 1,
+          "timestamps": [
+            99960
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "か",
+          "check_count": 1,
+          "timestamps": [
+            100340
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "え",
+          "check_count": 1,
+          "timestamps": [
+            100660
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "て",
+          "check_count": 1,
+          "timestamps": [
+            100900
+          ],
+          "sentence_end_ts": 101730,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "f9908d79-0401-49a7-9306-ece8b78252b6",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "空",
+          "check_count": 2,
+          "timestamps": [
+            101900,
+            102050
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "そ",
+                "offset_ms": 0
+              },
+              {
+                "text": "ら",
+                "offset_ms": 150
+              }
+            ]
+          }
+        },
+        {
+          "char": "に",
+          "check_count": 1,
+          "timestamps": [
+            102200
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "む",
+          "check_count": 1,
+          "timestamps": [
+            102370
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "か",
+          "check_count": 1,
+          "timestamps": [
+            102550
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "い",
+          "check_count": 1,
+          "timestamps": [
+            102740
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "雲",
+          "check_count": 2,
+          "timestamps": [
+            103080,
+            103410
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "く",
+                "offset_ms": 0
+              },
+              {
+                "text": "も",
+                "offset_ms": 330
+              }
+            ]
+          }
+        },
+        {
+          "char": "と",
+          "check_count": 1,
+          "timestamps": [
+            103610
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "な",
+          "check_count": 1,
+          "timestamps": [
+            103970
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            104330
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "て",
+          "check_count": 1,
+          "timestamps": [
+            104630
+          ],
+          "sentence_end_ts": 104900,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "3bd2119c-aafb-4550-8359-0001eefa389b",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "雨",
+          "check_count": 2,
+          "timestamps": [
+            105000,
+            105200
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "あ",
+                "offset_ms": 0
+              },
+              {
+                "text": "め",
+                "offset_ms": 200
+              }
+            ]
+          }
+        },
+        {
+          "char": "と",
+          "check_count": 1,
+          "timestamps": [
+            105580
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "な",
+          "check_count": 1,
+          "timestamps": [
+            105740
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            106090
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "堕",
+          "check_count": 1,
+          "timestamps": [
+            106270
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "お",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "ち",
+          "check_count": 1,
+          "timestamps": [
+            106440
+          ],
+          "sentence_end_ts": 107240,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "8bfc1bd7-ab18-423f-be2e-9b5c584646ce",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "大",
+          "check_count": 2,
+          "timestamps": [
+            107650,
+            107990
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "だ",
+                "offset_ms": 0
+              },
+              {
+                "text": "い",
+                "offset_ms": 340
+              }
+            ]
+          }
+        },
+        {
+          "char": "地",
+          "check_count": 1,
+          "timestamps": [
+            108340
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ち",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "を",
+          "check_count": 1,
+          "timestamps": [
+            108510
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "潤",
+          "check_count": 3,
+          "timestamps": [
+            108850,
+            109180,
+            109780
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "う",
+                "offset_ms": 0
+              },
+              {
+                "text": "る",
+                "offset_ms": 330
+              },
+              {
+                "text": "お",
+                "offset_ms": 930
+              }
+            ]
+          }
+        },
+        {
+          "char": "す",
+          "check_count": 1,
+          "timestamps": [
+            109940
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "音",
+          "check_count": 2,
+          "timestamps": [
+            110480,
+            110630
+          ],
+          "sentence_end_ts": 112180,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "お",
+                "offset_ms": 0
+              },
+              {
+                "text": "と",
+                "offset_ms": 150
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "f61fe94d-5c24-483f-bfd6-5988f6c849a4",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": []
+    },
+    {
+      "id": "1e3cb44c-8db9-4604-a47f-59fb82c43841",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "水",
+          "check_count": 2,
+          "timestamps": [
+            112750,
+            113080
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": true,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "み",
+                "offset_ms": 0
+              },
+              {
+                "text": "な",
+                "offset_ms": 330
+              }
+            ]
+          }
+        },
+        {
+          "char": "面",
+          "check_count": 1,
+          "timestamps": [
+            113380
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "も",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            113570
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "風",
+          "check_count": 2,
+          "timestamps": [
+            114570,
+            114730
+          ],
+          "sentence_end_ts": 115570,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "か",
+                "offset_ms": 0
+              },
+              {
+                "text": "ぜ",
+                "offset_ms": 160
+              }
+            ]
+          }
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "狂",
+          "check_count": 2,
+          "timestamps": [
+            115800,
+            115960
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "く",
+                "offset_ms": 0
+              },
+              {
+                "text": "る",
+                "offset_ms": 160
+              }
+            ]
+          }
+        },
+        {
+          "char": "う",
+          "check_count": 1,
+          "timestamps": [
+            116120
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "蝶",
+          "check_count": 2,
+          "timestamps": [
+            116380,
+            116660
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ちょ",
+                "offset_ms": 0
+              },
+              {
+                "text": "う",
+                "offset_ms": 280
+              }
+            ]
+          }
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            116800
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "群",
+          "check_count": 1,
+          "timestamps": [
+            117200
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "む",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "れ",
+          "check_count": 1,
+          "timestamps": [
+            117340
+          ],
+          "sentence_end_ts": 118050,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "cefb2bfa-7736-4ca3-ae53-3cf3709a3c10",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "遥",
+          "check_count": 2,
+          "timestamps": [
+            118400,
+            118710
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "は",
+                "offset_ms": 0
+              },
+              {
+                "text": "る",
+                "offset_ms": 310
+              }
+            ]
+          }
+        },
+        {
+          "char": "か",
+          "check_count": 1,
+          "timestamps": [
+            119060
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "果",
+          "check_count": 1,
+          "timestamps": [
+            119400
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "は",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "て",
+          "check_count": 1,
+          "timestamps": [
+            119560
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            119880
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "鐘",
+          "check_count": 2,
+          "timestamps": [
+            120050,
+            120210
+          ],
+          "sentence_end_ts": 120880,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "か",
+                "offset_ms": 0
+              },
+              {
+                "text": "ね",
+                "offset_ms": 160
+              }
+            ]
+          }
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "降",
+          "check_count": 1,
+          "timestamps": [
+            121120
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ふ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            121430
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "注",
+          "check_count": 2,
+          "timestamps": [
+            121700,
+            121880
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "そ",
+                "offset_ms": 0
+              },
+              {
+                "text": "そ",
+                "offset_ms": 180
+              }
+            ]
+          }
+        },
+        {
+          "char": "げ",
+          "check_count": 1,
+          "timestamps": [
+            122020
+          ],
+          "sentence_end_ts": 123170,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "9c731a78-77ad-4f21-8939-10caf71e044e",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "夢",
+          "check_count": 2,
+          "timestamps": [
+            123770,
+            124070
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ゆ",
+                "offset_ms": 0
+              },
+              {
+                "text": "め",
+                "offset_ms": 300
+              }
+            ]
+          }
+        },
+        {
+          "char": "は",
+          "check_count": 1,
+          "timestamps": [
+            124420
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "水",
+          "check_count": 2,
+          "timestamps": [
+            124610,
+            125640
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "み",
+                "offset_ms": 0
+              },
+              {
+                "text": "ず",
+                "offset_ms": 1030
+              }
+            ]
+          }
+        },
+        {
+          "char": "に",
+          "check_count": 1,
+          "timestamps": [
+            125840
+          ],
+          "sentence_end_ts": 126360,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "意",
+          "check_count": 1,
+          "timestamps": [
+            126710
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "い",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "識",
+          "check_count": 2,
+          "timestamps": [
+            127040,
+            127380
+          ],
+          "sentence_end_ts": 128120,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "し",
+                "offset_ms": 0
+              },
+              {
+                "text": "き",
+                "offset_ms": 340
+              }
+            ]
+          }
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "透",
+          "check_count": 2,
+          "timestamps": [
+            128420,
+            128610
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "と",
+                "offset_ms": 0
+              },
+              {
+                "text": "う",
+                "offset_ms": 190
+              }
+            ]
+          }
+        },
+        {
+          "char": "明",
+          "check_count": 2,
+          "timestamps": [
+            129140,
+            129310
+          ],
+          "sentence_end_ts": 130100,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "め",
+                "offset_ms": 0
+              },
+              {
+                "text": "い",
+                "offset_ms": 170
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "fc40cd13-28dc-423b-ab29-f70ecd7216bd",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "そ",
+          "check_count": 1,
+          "timestamps": [
+            130470
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            130850
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "愛",
+          "check_count": 2,
+          "timestamps": [
+            131190,
+            131380
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "あ",
+                "offset_ms": 0
+              },
+              {
+                "text": "い",
+                "offset_ms": 190
+              }
+            ]
+          }
+        },
+        {
+          "char": "を",
+          "check_count": 1,
+          "timestamps": [
+            131730
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "く",
+          "check_count": 1,
+          "timestamps": [
+            132580
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "だ",
+          "check_count": 1,
+          "timestamps": [
+            132790
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "さ",
+          "check_count": 1,
+          "timestamps": [
+            133140
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "い",
+          "check_count": 1,
+          "timestamps": [
+            133320
+          ],
+          "sentence_end_ts": 136090,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "c46d14d8-836c-4228-a63d-812e19dbc5e0",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": []
+    },
+    {
+      "id": "22145171-8848-4ab8-bcda-8c6b34e2b792",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "❀",
+          "check_count": 1,
+          "timestamps": [
+            164380
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": true,
+          "force_singer_tag": false
+        },
+        {
+          "char": "あ",
+          "check_count": 1,
+          "timestamps": [
+            165380
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            165760
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "が",
+          "check_count": 1,
+          "timestamps": [
+            166090
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "と",
+          "check_count": 1,
+          "timestamps": [
+            166270
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "う",
+          "check_count": 1,
+          "timestamps": [
+            167280
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "ね",
+          "check_count": 1,
+          "timestamps": [
+            167470
+          ],
+          "sentence_end_ts": 168270,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "雫",
+          "check_count": 3,
+          "timestamps": [
+            168530,
+            168700,
+            168870
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "し",
+                "offset_ms": 0
+              },
+              {
+                "text": "ず",
+                "offset_ms": 170
+              },
+              {
+                "text": "く",
+                "offset_ms": 340
+              }
+            ]
+          }
+        },
+        {
+          "char": "が",
+          "check_count": 1,
+          "timestamps": [
+            169060
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "苦",
+          "check_count": 2,
+          "timestamps": [
+            169380,
+            169550
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "く",
+                "offset_ms": 0
+              },
+              {
+                "text": "る",
+                "offset_ms": 170
+              }
+            ]
+          }
+        },
+        {
+          "char": "し",
+          "check_count": 1,
+          "timestamps": [
+            169880
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "み",
+          "check_count": 1,
+          "timestamps": [
+            170060
+          ],
+          "sentence_end_ts": 170790,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "dcc590f6-a3c5-40b7-b963-9fcb28acfd3a",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "す",
+          "check_count": 1,
+          "timestamps": [
+            171070
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "べ",
+          "check_count": 1,
+          "timestamps": [
+            171410
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "て",
+          "check_count": 1,
+          "timestamps": [
+            171760
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "受",
+          "check_count": 1,
+          "timestamps": [
+            172120
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "う",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "け",
+          "check_count": 1,
+          "timestamps": [
+            172310
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "い",
+          "check_count": 1,
+          "timestamps": [
+            172660
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "れ",
+          "check_count": 1,
+          "timestamps": [
+            172820
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "て",
+          "check_count": 1,
+          "timestamps": [
+            173010
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "く",
+          "check_count": 1,
+          "timestamps": [
+            173790
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "れ",
+          "check_count": 1,
+          "timestamps": [
+            174100
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "た",
+          "check_count": 1,
+          "timestamps": [
+            174420
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "か",
+          "check_count": 1,
+          "timestamps": [
+            174590
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "ら",
+          "check_count": 1,
+          "timestamps": [
+            174770
+          ],
+          "sentence_end_ts": 175840,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "8f42c728-d21e-42d7-8bb6-4d466a52c521",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "わ",
+          "check_count": 1,
+          "timestamps": [
+            176510
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "た",
+          "check_count": 1,
+          "timestamps": [
+            176820
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "し",
+          "check_count": 1,
+          "timestamps": [
+            177140
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            177340
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "繭",
+          "check_count": 2,
+          "timestamps": [
+            178280,
+            178510
+          ],
+          "sentence_end_ts": 179310,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ま",
+                "offset_ms": 0
+              },
+              {
+                "text": "ゆ",
+                "offset_ms": 230
+              }
+            ]
+          }
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "割",
+          "check_count": 1,
+          "timestamps": [
+            179470
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "わ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "れ",
+          "check_count": 1,
+          "timestamps": [
+            179780
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "て",
+          "check_count": 1,
+          "timestamps": [
+            180150
+          ],
+          "sentence_end_ts": 181050,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "砕",
+          "check_count": 2,
+          "timestamps": [
+            181120,
+            181350
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "く",
+                "offset_ms": 0
+              },
+              {
+                "text": "だ",
+                "offset_ms": 230
+              }
+            ]
+          }
+        },
+        {
+          "char": "け",
+          "check_count": 1,
+          "timestamps": [
+            181870
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "て",
+          "check_count": 1,
+          "timestamps": [
+            182030
+          ],
+          "sentence_end_ts": 182880,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "6693de06-789a-48cf-a9e2-b43e260e2c6a",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "此",
+          "check_count": 1,
+          "timestamps": [
+            183240
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "こ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "処",
+          "check_count": 1,
+          "timestamps": [
+            183550
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "こ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "に",
+          "check_count": 1,
+          "timestamps": [
+            183900
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "い",
+          "check_count": 1,
+          "timestamps": [
+            184090
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "る",
+          "check_count": 1,
+          "timestamps": [
+            184430
+          ],
+          "sentence_end_ts": 185080,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    },
+    {
+      "id": "0d85be1d-f963-4a4c-a365-ae690a3040be",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "今",
+          "check_count": 2,
+          "timestamps": [
+            185370,
+            185520
+          ],
+          "sentence_end_ts": 187300,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "い",
+                "offset_ms": 0
+              },
+              {
+                "text": "ま",
+                "offset_ms": 150
+              }
+            ]
+          }
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "感",
+          "check_count": 2,
+          "timestamps": [
+            187590,
+            187930
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "か",
+                "offset_ms": 0
+              },
+              {
+                "text": "ん",
+                "offset_ms": 340
+              }
+            ]
+          }
+        },
+        {
+          "char": "謝",
+          "check_count": 1,
+          "timestamps": [
+            188110
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "しゃ",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            188270
+          ],
+          "sentence_end_ts": 190080,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "雨",
+          "check_count": 2,
+          "timestamps": [
+            190840,
+            191040
+          ],
+          "sentence_end_ts": 192760,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "あ",
+                "offset_ms": 0
+              },
+              {
+                "text": "め",
+                "offset_ms": 200
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "700c9fc4-5fdf-4337-9343-22122a00bc17",
+      "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+      "characters": [
+        {
+          "char": "鳴",
+          "check_count": 1,
+          "timestamps": [
+            193540
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "な",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "り",
+          "check_count": 1,
+          "timestamps": [
+            193710
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "響",
+          "check_count": 2,
+          "timestamps": [
+            193870,
+            194030
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ひ",
+                "offset_ms": 0
+              },
+              {
+                "text": "び",
+                "offset_ms": 160
+              }
+            ]
+          }
+        },
+        {
+          "char": "く",
+          "check_count": 1,
+          "timestamps": [
+            194350
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "よ",
+          "check_count": 1,
+          "timestamps": [
+            194510
+          ],
+          "sentence_end_ts": 195620,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": " ",
+          "check_count": 0,
+          "timestamps": [],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "彼",
+          "check_count": 1,
+          "timestamps": [
+            195730
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "か",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "の",
+          "check_count": 1,
+          "timestamps": [
+            196070
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        },
+        {
+          "char": "地",
+          "check_count": 1,
+          "timestamps": [
+            196440
+          ],
+          "sentence_end_ts": null,
+          "linked_to_next": false,
+          "is_line_end": false,
+          "is_sentence_end": false,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false,
+          "ruby": {
+            "parts": [
+              {
+                "text": "ち",
+                "offset_ms": 0
+              }
+            ]
+          }
+        },
+        {
+          "char": "で",
+          "check_count": 1,
+          "timestamps": [
+            196610
+          ],
+          "sentence_end_ts": 202440,
+          "linked_to_next": false,
+          "is_line_end": true,
+          "is_sentence_end": true,
+          "is_rest": false,
+          "singer_id": "1b3a2567-f7a6-44cf-b0ca-2fde94f377a8",
+          "needs_guide": false,
+          "is_guide": false,
+          "force_singer_tag": false
+        }
+      ]
+    }
+  ],
+  "global_offset_ms": -100,
+  "nicokara_tags": {
+    "title": "",
+    "artist": "",
+    "album": "",
+    "tagging_by": "",
+    "silence_ms": 0,
+    "custom": []
+  }
+}

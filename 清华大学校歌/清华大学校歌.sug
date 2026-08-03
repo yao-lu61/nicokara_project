@@ -7,7 +7,7 @@
     "album": "",
     "language": "ja",
     "created_at": "2026-06-28T00:55:03.873805",
-    "updated_at": "2026-06-28T01:18:01.814218"
+    "updated_at": "2026-07-13T23:31:08.517901"
   },
   "audio_duration_ms": 0,
   "singers": [
@@ -35,7 +35,7 @@
           "char": "（",
           "check_count": 1,
           "timestamps": [
-            2620
+            2820
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -43,7 +43,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "前",
@@ -55,7 +56,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "奏",
@@ -67,7 +69,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "约",
@@ -79,7 +82,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "3",
@@ -91,7 +95,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "5",
@@ -103,7 +108,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "s",
@@ -115,19 +121,21 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "）",
           "check_count": 0,
           "timestamps": [],
-          "sentence_end_ts": 32290,
+          "sentence_end_ts": 32490,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -144,7 +152,7 @@
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            32560
+            32980
           ],
           "sentence_end_ts": null,
           "linked_to_next": true,
@@ -152,13 +160,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            33310
+            33730
           ],
           "sentence_end_ts": null,
           "linked_to_next": true,
@@ -166,13 +175,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            34060
+            34480
           ],
           "sentence_end_ts": null,
           "linked_to_next": true,
@@ -180,13 +190,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            34810
+            35230
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -194,13 +205,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "西",
           "check_count": 1,
           "timestamps": [
-            35560
+            35980
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -208,13 +220,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "山",
           "check_count": 1,
           "timestamps": [
-            36300
+            36500
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -222,13 +235,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "苍",
           "check_count": 1,
           "timestamps": [
-            37090
+            37290
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -236,21 +250,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "苍",
           "check_count": 1,
           "timestamps": [
-            37770
+            37970
           ],
-          "sentence_end_ts": 38240,
+          "sentence_end_ts": 38543,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -262,7 +278,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -274,13 +291,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "东",
           "check_count": 1,
           "timestamps": [
-            38570
+            38770
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -288,13 +306,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "海",
           "check_count": 1,
           "timestamps": [
-            39270
+            39470
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -302,13 +321,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "茫",
           "check_count": 1,
           "timestamps": [
-            39990
+            40190
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -316,21 +336,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "茫",
           "check_count": 1,
           "timestamps": [
-            40710
+            40910
           ],
-          "sentence_end_ts": 41220,
+          "sentence_end_ts": 41420,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -342,7 +364,7 @@
           "char": "吾",
           "check_count": 1,
           "timestamps": [
-            41620
+            41820
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -350,13 +372,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "校",
           "check_count": 1,
           "timestamps": [
-            42280
+            42480
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -364,13 +387,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "庄",
           "check_count": 1,
           "timestamps": [
-            43000
+            43200
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -378,21 +402,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "严",
           "check_count": 1,
           "timestamps": [
-            43740
+            43940
           ],
-          "sentence_end_ts": 44210,
+          "sentence_end_ts": 44410,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -404,7 +430,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -416,13 +443,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "巍",
           "check_count": 1,
           "timestamps": [
-            44550
+            44750
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -430,13 +458,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "然",
           "check_count": 1,
           "timestamps": [
-            45210
+            45410
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -444,13 +473,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "中",
           "check_count": 1,
           "timestamps": [
-            45540
+            45740
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -458,21 +488,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "央",
           "check_count": 1,
           "timestamps": [
-            45920
+            46120
           ],
-          "sentence_end_ts": 47010,
+          "sentence_end_ts": 47210,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -484,7 +516,7 @@
           "char": "东",
           "check_count": 1,
           "timestamps": [
-            47380
+            47580
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -492,13 +524,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "西",
           "check_count": 1,
           "timestamps": [
-            48090
+            48290
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -506,13 +539,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "文",
           "check_count": 1,
           "timestamps": [
-            48880
+            49080
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -520,21 +554,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "化",
           "check_count": 1,
           "timestamps": [
-            49640
+            49840
           ],
-          "sentence_end_ts": 50070,
+          "sentence_end_ts": 50270,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -546,7 +582,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -558,13 +595,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "荟",
           "check_count": 1,
           "timestamps": [
-            50420
+            50620
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -572,13 +610,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "萃",
           "check_count": 1,
           "timestamps": [
-            51120
+            51320
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -586,13 +625,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "一",
           "check_count": 1,
           "timestamps": [
-            51880
+            52080
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -600,21 +640,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "堂",
           "check_count": 1,
           "timestamps": [
-            52610
+            52810
           ],
-          "sentence_end_ts": 53080,
+          "sentence_end_ts": 53280,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -626,7 +668,7 @@
           "char": "大",
           "check_count": 1,
           "timestamps": [
-            53410
+            53610
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -634,13 +676,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "同",
           "check_count": 1,
           "timestamps": [
-            54080
+            54280
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -648,13 +691,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "爰",
           "check_count": 1,
           "timestamps": [
-            54790
+            54990
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -662,21 +706,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "跻",
           "check_count": 1,
           "timestamps": [
-            55520
+            55720
           ],
-          "sentence_end_ts": 55990,
+          "sentence_end_ts": 56190,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -688,7 +734,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -700,13 +747,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "祖",
           "check_count": 1,
           "timestamps": [
-            56320
+            56520
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -714,13 +762,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "国",
           "check_count": 1,
           "timestamps": [
-            57000
+            57200
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -728,13 +777,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "以",
           "check_count": 1,
           "timestamps": [
-            57790
+            57990
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -742,21 +792,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "光",
           "check_count": 1,
           "timestamps": [
-            58560
+            58760
           ],
-          "sentence_end_ts": 61620,
+          "sentence_end_ts": 61820,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -768,7 +820,7 @@
           "char": "莘",
           "check_count": 1,
           "timestamps": [
-            62362
+            62562
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -776,13 +828,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "莘",
           "check_count": 1,
           "timestamps": [
-            63340
+            63540
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -790,13 +843,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "学",
           "check_count": 1,
           "timestamps": [
-            63696
+            63896
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -804,13 +858,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "子",
           "check_count": 1,
           "timestamps": [
-            64388
+            64588
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -818,13 +873,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "来",
           "check_count": 1,
           "timestamps": [
-            65114
+            65314
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -832,13 +888,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "远",
           "check_count": 1,
           "timestamps": [
-            66249
+            66449
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -846,21 +903,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "方",
           "check_count": 1,
           "timestamps": [
-            66589
+            66789
           ],
-          "sentence_end_ts": 67567,
+          "sentence_end_ts": 67767,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -872,7 +931,7 @@
           "char": "莘",
           "check_count": 1,
           "timestamps": [
-            68044
+            68244
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -880,13 +939,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "莘",
           "check_count": 1,
           "timestamps": [
-            69181
+            69381
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -894,13 +954,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "学",
           "check_count": 1,
           "timestamps": [
-            69600
+            69800
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -908,13 +969,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "子",
           "check_count": 1,
           "timestamps": [
-            70301
+            70501
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -922,13 +984,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "来",
           "check_count": 1,
           "timestamps": [
-            71093
+            71293
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -936,13 +999,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "远",
           "check_count": 1,
           "timestamps": [
-            71816
+            72016
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -950,21 +1014,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "方",
           "check_count": 1,
           "timestamps": [
-            72631
+            72831
           ],
-          "sentence_end_ts": 73683,
+          "sentence_end_ts": 73883,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -976,7 +1042,7 @@
           "char": "春",
           "check_count": 1,
           "timestamps": [
-            74090
+            74290
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -984,13 +1050,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "风",
           "check_count": 1,
           "timestamps": [
-            75221
+            75421
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -998,13 +1065,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "化",
           "check_count": 1,
           "timestamps": [
-            75579
+            75779
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1012,13 +1080,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "雨",
           "check_count": 1,
           "timestamps": [
-            76296
+            76496
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1026,13 +1095,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "乐",
           "check_count": 1,
           "timestamps": [
-            76979
+            77179
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1040,13 +1110,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "未",
           "check_count": 1,
           "timestamps": [
-            77666
+            77866
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1054,21 +1125,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "央",
           "check_count": 1,
           "timestamps": [
-            78392
+            78592
           ],
-          "sentence_end_ts": 79264,
+          "sentence_end_ts": 79464,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -1080,7 +1153,7 @@
           "char": "行",
           "check_count": 1,
           "timestamps": [
-            79883
+            80083
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1088,13 +1161,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "健",
           "check_count": 1,
           "timestamps": [
-            81013
+            81213
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1102,13 +1176,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "不",
           "check_count": 1,
           "timestamps": [
-            81426
+            81626
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1116,13 +1191,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "息",
           "check_count": 1,
           "timestamps": [
-            82157
+            82357
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1130,13 +1206,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "须",
           "check_count": 1,
           "timestamps": [
-            82881
+            83081
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1144,13 +1221,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "自",
           "check_count": 1,
           "timestamps": [
-            83575
+            83775
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1158,21 +1236,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "强",
           "check_count": 1,
           "timestamps": [
-            84370
+            84570
           ],
-          "sentence_end_ts": 85205,
+          "sentence_end_ts": 85405,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -1184,7 +1264,7 @@
           "char": "自",
           "check_count": 1,
           "timestamps": [
-            85887
+            86087
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1192,21 +1272,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "强",
           "check_count": 1,
           "timestamps": [
-            86611
+            86811
           ],
-          "sentence_end_ts": 88198,
+          "sentence_end_ts": 88398,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -1218,7 +1300,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -1230,13 +1313,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "自",
           "check_count": 1,
           "timestamps": [
-            88832
+            89032
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1244,21 +1328,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "强",
           "check_count": 1,
           "timestamps": [
-            89512
+            89712
           ],
-          "sentence_end_ts": 91155,
+          "sentence_end_ts": 91355,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -1270,7 +1356,7 @@
           "char": "行",
           "check_count": 1,
           "timestamps": [
-            91762
+            91962
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1278,13 +1364,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "健",
           "check_count": 1,
           "timestamps": [
-            92486
+            92686
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1292,13 +1379,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "不",
           "check_count": 1,
           "timestamps": [
-            93245
+            93445
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1306,13 +1394,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "息",
           "check_count": 1,
           "timestamps": [
-            93968
+            94168
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1320,13 +1409,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "须",
           "check_count": 1,
           "timestamps": [
-            94669
+            94869
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1334,13 +1424,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "自",
           "check_count": 1,
           "timestamps": [
-            95408
+            95608
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1348,21 +1439,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "强",
           "check_count": 1,
           "timestamps": [
-            96157
+            96357
           ],
-          "sentence_end_ts": 97321,
+          "sentence_end_ts": 97521,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -1374,7 +1467,7 @@
           "char": "自",
           "check_count": 1,
           "timestamps": [
-            97706
+            97906
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1382,21 +1475,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "强",
           "check_count": 1,
           "timestamps": [
-            98459
+            98659
           ],
-          "sentence_end_ts": 100096,
+          "sentence_end_ts": 100296,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -1408,7 +1503,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -1420,13 +1516,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "自",
           "check_count": 1,
           "timestamps": [
-            100670
+            100870
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1434,21 +1531,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "强",
           "check_count": 1,
           "timestamps": [
-            101381
+            101581
           ],
-          "sentence_end_ts": 103119,
+          "sentence_end_ts": 103319,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -1460,7 +1559,7 @@
           "char": "行",
           "check_count": 1,
           "timestamps": [
-            103632
+            103832
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1468,13 +1567,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "健",
           "check_count": 1,
           "timestamps": [
-            104364
+            104564
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1482,13 +1582,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "不",
           "check_count": 1,
           "timestamps": [
-            105129
+            105329
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1496,13 +1597,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "息",
           "check_count": 1,
           "timestamps": [
-            105809
+            106009
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1510,13 +1612,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "须",
           "check_count": 1,
           "timestamps": [
-            106541
+            106741
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1524,13 +1627,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "自",
           "check_count": 1,
           "timestamps": [
-            107267
+            107467
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1538,21 +1642,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "强",
           "check_count": 1,
           "timestamps": [
-            108020
+            108220
           ],
-          "sentence_end_ts": 109218,
+          "sentence_end_ts": 109418,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -1569,7 +1675,7 @@
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            112897
+            113097
           ],
           "sentence_end_ts": null,
           "linked_to_next": true,
@@ -1577,13 +1683,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            113577
+            113777
           ],
           "sentence_end_ts": null,
           "linked_to_next": true,
@@ -1591,13 +1698,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            114257
+            114457
           ],
           "sentence_end_ts": null,
           "linked_to_next": true,
@@ -1605,13 +1713,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            114937
+            115137
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1619,13 +1728,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "左",
           "check_count": 1,
           "timestamps": [
-            115617
+            115817
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1633,13 +1743,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "图",
           "check_count": 1,
           "timestamps": [
-            116241
+            116441
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1647,13 +1758,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "右",
           "check_count": 1,
           "timestamps": [
-            116917
+            117117
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1661,21 +1773,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "史",
           "check_count": 1,
           "timestamps": [
-            117612
+            117812
           ],
-          "sentence_end_ts": 118138,
+          "sentence_end_ts": 118338,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -1687,7 +1801,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -1699,13 +1814,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "邺",
           "check_count": 1,
           "timestamps": [
-            118469
+            118669
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1713,13 +1829,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "架",
           "check_count": 1,
           "timestamps": [
-            119148
+            119348
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1727,13 +1844,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "巍",
           "check_count": 1,
           "timestamps": [
-            119938
+            120138
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1741,21 +1859,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "巍",
           "check_count": 1,
           "timestamps": [
-            120608
+            120808
           ],
-          "sentence_end_ts": 121154,
+          "sentence_end_ts": 121354,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -1767,7 +1887,7 @@
           "char": "致",
           "check_count": 1,
           "timestamps": [
-            121500
+            121700
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1775,13 +1895,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "知",
           "check_count": 1,
           "timestamps": [
-            122186
+            122386
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1789,13 +1910,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "穷",
           "check_count": 1,
           "timestamps": [
-            122924
+            123124
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1803,21 +1925,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "理",
           "check_count": 1,
           "timestamps": [
-            123656
+            123856
           ],
-          "sentence_end_ts": 124077,
+          "sentence_end_ts": 124277,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -1829,7 +1953,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -1841,13 +1966,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "学",
           "check_count": 1,
           "timestamps": [
-            124440
+            124640
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1855,13 +1981,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "古",
           "check_count": 1,
           "timestamps": [
-            125103
+            125303
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1869,13 +1996,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "探",
           "check_count": 1,
           "timestamps": [
-            125502
+            125702
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1883,21 +2011,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "微",
           "check_count": 1,
           "timestamps": [
-            125880
+            126080
           ],
-          "sentence_end_ts": 126941,
+          "sentence_end_ts": 127141,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -1909,7 +2039,7 @@
           "char": "新",
           "check_count": 1,
           "timestamps": [
-            127311
+            127511
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1917,13 +2047,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "旧",
           "check_count": 1,
           "timestamps": [
-            128081
+            128281
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1931,13 +2062,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "合",
           "check_count": 1,
           "timestamps": [
-            128874
+            129074
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1945,21 +2077,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "冶",
           "check_count": 1,
           "timestamps": [
-            129581
+            129781
           ],
-          "sentence_end_ts": 130033,
+          "sentence_end_ts": 130233,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -1971,7 +2105,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -1983,13 +2118,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "殊",
           "check_count": 1,
           "timestamps": [
-            130365
+            130565
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -1997,13 +2133,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "途",
           "check_count": 1,
           "timestamps": [
-            131105
+            131305
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2011,13 +2148,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "同",
           "check_count": 1,
           "timestamps": [
-            131831
+            132031
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2025,21 +2163,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "归",
           "check_count": 1,
           "timestamps": [
-            132577
+            132777
           ],
-          "sentence_end_ts": 132983,
+          "sentence_end_ts": 133183,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -2051,7 +2191,7 @@
           "char": "肴",
           "check_count": 1,
           "timestamps": [
-            133369
+            133569
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2059,13 +2199,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "核",
           "check_count": 1,
           "timestamps": [
-            134059
+            134259
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2073,13 +2214,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "仁",
           "check_count": 1,
           "timestamps": [
-            134767
+            134967
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2087,21 +2229,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "义",
           "check_count": 1,
           "timestamps": [
-            135519
+            135719
           ],
-          "sentence_end_ts": 135937,
+          "sentence_end_ts": 136137,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -2113,7 +2257,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -2125,13 +2270,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "闻",
           "check_count": 1,
           "timestamps": [
-            136271
+            136471
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2139,13 +2285,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "道",
           "check_count": 1,
           "timestamps": [
-            137001
+            137201
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2153,13 +2300,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "日",
           "check_count": 1,
           "timestamps": [
-            137720
+            137920
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2167,21 +2315,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "肥",
           "check_count": 1,
           "timestamps": [
-            138449
+            138649
           ],
-          "sentence_end_ts": 140247,
+          "sentence_end_ts": 140447,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -2193,7 +2343,7 @@
           "char": "服",
           "check_count": 1,
           "timestamps": [
-            140638
+            140838
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2201,13 +2351,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "膺",
           "check_count": 1,
           "timestamps": [
-            141799
+            141999
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2215,13 +2366,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "守",
           "check_count": 1,
           "timestamps": [
-            142200
+            142400
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2229,13 +2381,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "善",
           "check_count": 1,
           "timestamps": [
-            142898
+            143098
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2243,13 +2396,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "心",
           "check_count": 1,
           "timestamps": [
-            143713
+            143913
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2257,13 +2411,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "无",
           "check_count": 1,
           "timestamps": [
-            144769
+            144969
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2271,21 +2426,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "违",
           "check_count": 1,
           "timestamps": [
-            145181
+            145381
           ],
-          "sentence_end_ts": 146236,
+          "sentence_end_ts": 146436,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -2297,7 +2454,7 @@
           "char": "服",
           "check_count": 1,
           "timestamps": [
-            146672
+            146872
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2305,13 +2462,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "膺",
           "check_count": 1,
           "timestamps": [
-            147713
+            147913
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2319,13 +2477,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "守",
           "check_count": 1,
           "timestamps": [
-            148133
+            148333
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2333,13 +2492,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "善",
           "check_count": 1,
           "timestamps": [
-            148826
+            149026
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2347,13 +2507,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "心",
           "check_count": 1,
           "timestamps": [
-            149632
+            149832
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2361,13 +2522,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "无",
           "check_count": 1,
           "timestamps": [
-            150329
+            150529
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2375,21 +2537,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "违",
           "check_count": 1,
           "timestamps": [
-            151075
+            151275
           ],
-          "sentence_end_ts": 152162,
+          "sentence_end_ts": 152362,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -2401,7 +2565,7 @@
           "char": "海",
           "check_count": 1,
           "timestamps": [
-            152567
+            152767
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2409,13 +2573,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "能",
           "check_count": 1,
           "timestamps": [
-            153644
+            153844
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2423,13 +2588,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "卑",
           "check_count": 1,
           "timestamps": [
-            154052
+            154252
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2437,13 +2603,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "下",
           "check_count": 1,
           "timestamps": [
-            154770
+            154970
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2451,13 +2618,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "众",
           "check_count": 1,
           "timestamps": [
-            155533
+            155733
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2465,13 +2633,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "水",
           "check_count": 1,
           "timestamps": [
-            156254
+            156454
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2479,21 +2648,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "归",
           "check_count": 1,
           "timestamps": [
-            157040
+            157240
           ],
-          "sentence_end_ts": 158101,
+          "sentence_end_ts": 158301,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -2505,7 +2676,7 @@
           "char": "学",
           "check_count": 1,
           "timestamps": [
-            158531
+            158731
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2513,13 +2684,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "问",
           "check_count": 1,
           "timestamps": [
-            159622
+            159822
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2527,13 +2699,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "笃",
           "check_count": 1,
           "timestamps": [
-            159981
+            160181
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2541,13 +2714,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "实",
           "check_count": 1,
           "timestamps": [
-            160704
+            160904
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2555,13 +2729,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "生",
           "check_count": 1,
           "timestamps": [
-            161501
+            161701
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2569,13 +2744,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "光",
           "check_count": 1,
           "timestamps": [
-            162223
+            162423
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2583,21 +2759,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "辉",
           "check_count": 1,
           "timestamps": [
-            163002
+            163202
           ],
-          "sentence_end_ts": 164099,
+          "sentence_end_ts": 164299,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -2609,7 +2787,7 @@
           "char": "光",
           "check_count": 1,
           "timestamps": [
-            164449
+            164649
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2617,21 +2795,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "辉",
           "check_count": 1,
           "timestamps": [
-            165133
+            165333
           ],
-          "sentence_end_ts": 166960,
+          "sentence_end_ts": 167160,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -2643,7 +2823,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -2655,13 +2836,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "光",
           "check_count": 1,
           "timestamps": [
-            167372
+            167572
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2669,21 +2851,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "辉",
           "check_count": 1,
           "timestamps": [
-            168156
+            168356
           ],
-          "sentence_end_ts": 169833,
+          "sentence_end_ts": 170033,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -2695,7 +2879,7 @@
           "char": "学",
           "check_count": 1,
           "timestamps": [
-            170331
+            170531
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2703,13 +2887,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "问",
           "check_count": 1,
           "timestamps": [
-            171086
+            171286
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2717,13 +2902,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "笃",
           "check_count": 1,
           "timestamps": [
-            171856
+            172056
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2731,13 +2917,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "实",
           "check_count": 1,
           "timestamps": [
-            172546
+            172746
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2745,13 +2932,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "生",
           "check_count": 1,
           "timestamps": [
-            173309
+            173509
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2759,13 +2947,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "光",
           "check_count": 1,
           "timestamps": [
-            174054
+            174254
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2773,21 +2962,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "辉",
           "check_count": 1,
           "timestamps": [
-            174796
+            174996
           ],
-          "sentence_end_ts": 175832,
+          "sentence_end_ts": 176032,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -2799,7 +2990,7 @@
           "char": "光",
           "check_count": 1,
           "timestamps": [
-            176235
+            176435
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2807,21 +2998,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "辉",
           "check_count": 1,
           "timestamps": [
-            176959
+            177159
           ],
-          "sentence_end_ts": 178658,
+          "sentence_end_ts": 178858,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -2833,7 +3026,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -2845,13 +3039,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "光",
           "check_count": 1,
           "timestamps": [
-            179172
+            179372
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2859,21 +3054,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "辉",
           "check_count": 1,
           "timestamps": [
-            179912
+            180112
           ],
-          "sentence_end_ts": 181679,
+          "sentence_end_ts": 181879,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -2885,7 +3082,7 @@
           "char": "学",
           "check_count": 1,
           "timestamps": [
-            182150
+            182350
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2893,13 +3090,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "问",
           "check_count": 1,
           "timestamps": [
-            182973
+            183173
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2907,13 +3105,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "笃",
           "check_count": 1,
           "timestamps": [
-            183765
+            183965
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2921,13 +3120,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "实",
           "check_count": 1,
           "timestamps": [
-            184477
+            184677
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2935,13 +3135,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "生",
           "check_count": 1,
           "timestamps": [
-            185156
+            185356
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2949,13 +3150,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "光",
           "check_count": 1,
           "timestamps": [
-            185858
+            186058
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -2963,21 +3165,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "辉",
           "check_count": 1,
           "timestamps": [
-            186722
+            186922
           ],
-          "sentence_end_ts": 187823,
+          "sentence_end_ts": 188023,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -2994,7 +3198,7 @@
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            205548
+            205748
           ],
           "sentence_end_ts": null,
           "linked_to_next": true,
@@ -3002,13 +3206,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            206048
+            206248
           ],
           "sentence_end_ts": null,
           "linked_to_next": true,
@@ -3016,13 +3221,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            206548
+            206748
           ],
           "sentence_end_ts": null,
           "linked_to_next": true,
@@ -3030,13 +3236,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "●",
           "check_count": 1,
           "timestamps": [
-            207048
+            207248
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3044,13 +3251,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "器",
           "check_count": 1,
           "timestamps": [
-            207548
+            207748
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3058,13 +3266,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "识",
           "check_count": 1,
           "timestamps": [
-            208004
+            208204
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3072,13 +3281,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "为",
           "check_count": 1,
           "timestamps": [
-            208518
+            208718
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3086,21 +3296,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "先",
           "check_count": 1,
           "timestamps": [
-            209022
+            209222
           ],
-          "sentence_end_ts": 209321,
+          "sentence_end_ts": 209521,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -3112,7 +3324,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -3124,13 +3337,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "文",
           "check_count": 1,
           "timestamps": [
-            209587
+            209787
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3138,13 +3352,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "艺",
           "check_count": 1,
           "timestamps": [
-            210086
+            210286
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3152,13 +3367,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "其",
           "check_count": 1,
           "timestamps": [
-            210621
+            210821
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3166,21 +3382,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "从",
           "check_count": 1,
           "timestamps": [
-            211161
+            211361
           ],
-          "sentence_end_ts": 211497,
+          "sentence_end_ts": 211697,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -3192,7 +3410,7 @@
           "char": "立",
           "check_count": 1,
           "timestamps": [
-            211813
+            212013
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3200,13 +3418,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "德",
           "check_count": 1,
           "timestamps": [
-            212294
+            212494
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3214,13 +3433,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "立",
           "check_count": 1,
           "timestamps": [
-            212824
+            213024
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3228,21 +3448,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "言",
           "check_count": 1,
           "timestamps": [
-            213378
+            213578
           ],
-          "sentence_end_ts": 213663,
+          "sentence_end_ts": 213863,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -3254,7 +3476,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -3266,13 +3489,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "无",
           "check_count": 1,
           "timestamps": [
-            213962
+            214162
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3280,13 +3504,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "问",
           "check_count": 1,
           "timestamps": [
-            214455
+            214655
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3294,13 +3519,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "西",
           "check_count": 1,
           "timestamps": [
-            214716
+            214916
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3308,21 +3534,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "东",
           "check_count": 1,
           "timestamps": [
-            215009
+            215209
           ],
-          "sentence_end_ts": 215703,
+          "sentence_end_ts": 215903,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -3334,7 +3562,7 @@
           "char": "孰",
           "check_count": 1,
           "timestamps": [
-            216091
+            216291
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3342,13 +3570,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "绍",
           "check_count": 1,
           "timestamps": [
-            216613
+            216813
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3356,13 +3585,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "介",
           "check_count": 1,
           "timestamps": [
-            217187
+            217387
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3370,21 +3600,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "是",
           "check_count": 1,
           "timestamps": [
-            217744
+            217944
           ],
-          "sentence_end_ts": 218091,
+          "sentence_end_ts": 218291,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -3396,7 +3628,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -3408,13 +3641,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "吾",
           "check_count": 1,
           "timestamps": [
-            218331
+            218531
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3422,13 +3656,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "校",
           "check_count": 1,
           "timestamps": [
-            218788
+            218988
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3436,13 +3671,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "之",
           "check_count": 1,
           "timestamps": [
-            219377
+            219577
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3450,21 +3686,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "功",
           "check_count": 1,
           "timestamps": [
-            219892
+            220092
           ],
-          "sentence_end_ts": 220246,
+          "sentence_end_ts": 220446,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -3476,7 +3714,7 @@
           "char": "同",
           "check_count": 1,
           "timestamps": [
-            220512
+            220712
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3484,13 +3722,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "仁",
           "check_count": 1,
           "timestamps": [
-            221034
+            221234
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3498,13 +3737,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "一",
           "check_count": 1,
           "timestamps": [
-            221566
+            221766
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3512,21 +3752,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "视",
           "check_count": 1,
           "timestamps": [
-            222067
+            222267
           ],
-          "sentence_end_ts": 222391,
+          "sentence_end_ts": 222591,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -3538,7 +3780,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -3550,13 +3793,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "泱",
           "check_count": 1,
           "timestamps": [
-            222635
+            222835
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3564,13 +3808,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "泱",
           "check_count": 1,
           "timestamps": [
-            223181
+            223381
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3578,13 +3823,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "大",
           "check_count": 1,
           "timestamps": [
-            223748
+            223948
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3592,21 +3838,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "风",
           "check_count": 1,
           "timestamps": [
-            224275
+            224475
           ],
-          "sentence_end_ts": 225731,
+          "sentence_end_ts": 225931,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -3618,7 +3866,7 @@
           "char": "水",
           "check_count": 1,
           "timestamps": [
-            226005
+            226205
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3626,13 +3874,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "木",
           "check_count": 1,
           "timestamps": [
-            226785
+            226985
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3640,13 +3889,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "清",
           "check_count": 1,
           "timestamps": [
-            227074
+            227274
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3654,13 +3904,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "华",
           "check_count": 1,
           "timestamps": [
-            227668
+            227868
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3668,13 +3919,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "众",
           "check_count": 1,
           "timestamps": [
-            228198
+            228398
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3682,13 +3934,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "秀",
           "check_count": 1,
           "timestamps": [
-            228976
+            229176
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3696,21 +3949,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "钟",
           "check_count": 1,
           "timestamps": [
-            229206
+            229406
           ],
-          "sentence_end_ts": 229917,
+          "sentence_end_ts": 230117,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -3722,7 +3977,7 @@
           "char": "水",
           "check_count": 1,
           "timestamps": [
-            230278
+            230478
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3730,13 +3985,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "木",
           "check_count": 1,
           "timestamps": [
-            231105
+            231305
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3744,13 +4000,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "清",
           "check_count": 1,
           "timestamps": [
-            231390
+            231590
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3758,13 +4015,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "华",
           "check_count": 1,
           "timestamps": [
-            231910
+            232110
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3772,13 +4030,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "众",
           "check_count": 1,
           "timestamps": [
-            232465
+            232665
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3786,13 +4045,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "秀",
           "check_count": 1,
           "timestamps": [
-            233012
+            233212
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3800,21 +4060,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "钟",
           "check_count": 1,
           "timestamps": [
-            233520
+            233720
           ],
-          "sentence_end_ts": 234322,
+          "sentence_end_ts": 234522,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -3826,7 +4088,7 @@
           "char": "万",
           "check_count": 1,
           "timestamps": [
-            234701
+            234901
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3834,13 +4096,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "悃",
           "check_count": 1,
           "timestamps": [
-            235473
+            235673
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3848,13 +4111,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "如",
           "check_count": 1,
           "timestamps": [
-            235797
+            235997
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3862,13 +4126,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "一",
           "check_count": 1,
           "timestamps": [
-            236342
+            236542
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3876,13 +4141,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "矢",
           "check_count": 1,
           "timestamps": [
-            236837
+            237037
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3890,13 +4156,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "以",
           "check_count": 1,
           "timestamps": [
-            237369
+            237569
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3904,21 +4171,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "忠",
           "check_count": 1,
           "timestamps": [
-            237912
+            238112
           ],
-          "sentence_end_ts": 238599,
+          "sentence_end_ts": 238799,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -3930,7 +4199,7 @@
           "char": "赫",
           "check_count": 1,
           "timestamps": [
-            239040
+            239240
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3938,13 +4207,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "赫",
           "check_count": 1,
           "timestamps": [
-            239837
+            240037
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3952,13 +4222,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "吾",
           "check_count": 1,
           "timestamps": [
-            240153
+            240353
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3966,13 +4237,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "校",
           "check_count": 1,
           "timestamps": [
-            240645
+            240845
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3980,13 +4252,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "名",
           "check_count": 1,
           "timestamps": [
-            241197
+            241397
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -3994,13 +4267,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "无",
           "check_count": 1,
           "timestamps": [
-            241726
+            241926
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4008,21 +4282,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "穷",
           "check_count": 1,
           "timestamps": [
-            242277
+            242477
           ],
-          "sentence_end_ts": 242852,
+          "sentence_end_ts": 243052,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -4034,7 +4310,7 @@
           "char": "无",
           "check_count": 1,
           "timestamps": [
-            243386
+            243586
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4042,21 +4318,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "穷",
           "check_count": 1,
           "timestamps": [
-            243932
+            244132
           ],
-          "sentence_end_ts": 245285,
+          "sentence_end_ts": 245485,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -4068,7 +4346,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -4080,13 +4359,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "无",
           "check_count": 1,
           "timestamps": [
-            245567
+            245767
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4094,21 +4374,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "穷",
           "check_count": 1,
           "timestamps": [
-            246114
+            246314
           ],
-          "sentence_end_ts": 247320,
+          "sentence_end_ts": 247520,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -4120,7 +4402,7 @@
           "char": "赫",
           "check_count": 1,
           "timestamps": [
-            247763
+            247963
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4128,13 +4410,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "赫",
           "check_count": 1,
           "timestamps": [
-            248232
+            248432
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4142,13 +4425,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "吾",
           "check_count": 1,
           "timestamps": [
-            248821
+            249021
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4156,13 +4440,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "校",
           "check_count": 1,
           "timestamps": [
-            249375
+            249575
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4170,13 +4455,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "名",
           "check_count": 1,
           "timestamps": [
-            249899
+            250099
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4184,13 +4470,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "无",
           "check_count": 1,
           "timestamps": [
-            250462
+            250662
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4198,21 +4485,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "穷",
           "check_count": 1,
           "timestamps": [
-            250951
+            251151
           ],
-          "sentence_end_ts": 251701,
+          "sentence_end_ts": 251901,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -4224,7 +4513,7 @@
           "char": "无",
           "check_count": 1,
           "timestamps": [
-            252090
+            252290
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4232,21 +4521,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "穷",
           "check_count": 1,
           "timestamps": [
-            252652
+            252852
           ],
-          "sentence_end_ts": 253771,
+          "sentence_end_ts": 253971,
           "linked_to_next": false,
           "is_line_end": false,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -4258,7 +4549,8 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": " ",
@@ -4270,13 +4562,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "无",
           "check_count": 1,
           "timestamps": [
-            254258
+            254458
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4284,21 +4577,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "穷",
           "check_count": 1,
           "timestamps": [
-            254835
+            255035
           ],
-          "sentence_end_ts": 256091,
+          "sentence_end_ts": 256291,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -4310,7 +4605,7 @@
           "char": "赫",
           "check_count": 1,
           "timestamps": [
-            256481
+            256681
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4318,13 +4613,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "赫",
           "check_count": 1,
           "timestamps": [
-            257039
+            257239
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4332,13 +4628,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "吾",
           "check_count": 1,
           "timestamps": [
-            257603
+            257803
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4346,13 +4643,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "校",
           "check_count": 1,
           "timestamps": [
-            258089
+            258289
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4360,13 +4658,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "名",
           "check_count": 1,
           "timestamps": [
-            258648
+            258848
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4374,13 +4673,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "无",
           "check_count": 1,
           "timestamps": [
-            259198
+            259398
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4388,21 +4688,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "穷",
           "check_count": 1,
           "timestamps": [
-            259744
+            259944
           ],
-          "sentence_end_ts": 260485,
+          "sentence_end_ts": 260685,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     },
@@ -4414,7 +4716,7 @@
           "char": "赫",
           "check_count": 1,
           "timestamps": [
-            260919
+            261119
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4422,13 +4724,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "赫",
           "check_count": 1,
           "timestamps": [
-            261425
+            261625
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4436,13 +4739,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "吾",
           "check_count": 1,
           "timestamps": [
-            262030
+            262230
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4450,13 +4754,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "校",
           "check_count": 1,
           "timestamps": [
-            262506
+            262706
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4464,13 +4769,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "名",
           "check_count": 1,
           "timestamps": [
-            263051
+            263251
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4478,13 +4784,14 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "无",
           "check_count": 1,
           "timestamps": [
-            265204
+            265404
           ],
           "sentence_end_ts": null,
           "linked_to_next": false,
@@ -4492,21 +4799,23 @@
           "is_sentence_end": false,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         },
         {
           "char": "穷",
           "check_count": 1,
           "timestamps": [
-            267312
+            267512
           ],
-          "sentence_end_ts": 274437,
+          "sentence_end_ts": 274637,
           "linked_to_next": false,
           "is_line_end": true,
           "is_sentence_end": true,
           "is_rest": false,
           "singer_id": "5824c098-3350-4d4c-9627-58746d1762ce",
-          "needs_guide": false
+          "needs_guide": false,
+          "force_singer_tag": false
         }
       ]
     }
